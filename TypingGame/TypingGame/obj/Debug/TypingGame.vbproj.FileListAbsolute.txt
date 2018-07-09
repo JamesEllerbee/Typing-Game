@@ -1,0 +1,27 @@
+C:\Users\ShaneEichner\AppData\Local\Temporary Projects\TypingGame\bin\Debug\TypingGame.exe.config
+C:\Users\ShaneEichner\AppData\Local\Temporary Projects\TypingGame\bin\Debug\TypingGame.exe
+C:\Users\ShaneEichner\AppData\Local\Temporary Projects\TypingGame\bin\Debug\TypingGame.pdb
+C:\Users\ShaneEichner\AppData\Local\Temporary Projects\TypingGame\bin\Debug\TypingGame.xml
+C:\Users\ShaneEichner\AppData\Local\Temporary Projects\TypingGame\obj\Debug\TypingGame.vbprojResolveAssemblyReference.cache
+C:\Users\ShaneEichner\AppData\Local\Temporary Projects\TypingGame\obj\Debug\TypingGame.frmGame.resources
+C:\Users\ShaneEichner\AppData\Local\Temporary Projects\TypingGame\obj\Debug\TypingGame.frmInstructions.resources
+C:\Users\ShaneEichner\AppData\Local\Temporary Projects\TypingGame\obj\Debug\TypingGame.Resources.resources
+C:\Users\ShaneEichner\AppData\Local\Temporary Projects\TypingGame\obj\Debug\TypingGame.splashGame.resources
+C:\Users\ShaneEichner\AppData\Local\Temporary Projects\TypingGame\obj\Debug\TypingGame.vbproj.GenerateResource.cache
+C:\Users\ShaneEichner\AppData\Local\Temporary Projects\TypingGame\obj\Debug\TypingGame.vbproj.CoreCompileInputs.cache
+C:\Users\ShaneEichner\AppData\Local\Temporary Projects\TypingGame\obj\Debug\TypingGame.exe
+C:\Users\ShaneEichner\AppData\Local\Temporary Projects\TypingGame\obj\Debug\TypingGame.xml
+C:\Users\ShaneEichner\AppData\Local\Temporary Projects\TypingGame\obj\Debug\TypingGame.pdb
+C:\Users\ShaneEichner\source\repos\TypingGame\TypingGame\bin\Debug\TypingGame.exe.config
+C:\Users\ShaneEichner\source\repos\TypingGame\TypingGame\bin\Debug\TypingGame.exe
+C:\Users\ShaneEichner\source\repos\TypingGame\TypingGame\bin\Debug\TypingGame.pdb
+C:\Users\ShaneEichner\source\repos\TypingGame\TypingGame\bin\Debug\TypingGame.xml
+C:\Users\ShaneEichner\source\repos\TypingGame\TypingGame\obj\Debug\TypingGame.vbprojResolveAssemblyReference.cache
+C:\Users\ShaneEichner\source\repos\TypingGame\TypingGame\obj\Debug\TypingGame.frmGame.resources
+C:\Users\ShaneEichner\source\repos\TypingGame\TypingGame\obj\Debug\TypingGame.frmInstructions.resources
+C:\Users\ShaneEichner\source\repos\TypingGame\TypingGame\obj\Debug\TypingGame.Resources.resources
+C:\Users\ShaneEichner\source\repos\TypingGame\TypingGame\obj\Debug\TypingGame.vbproj.GenerateResource.cache
+C:\Users\ShaneEichner\source\repos\TypingGame\TypingGame\obj\Debug\TypingGame.vbproj.CoreCompileInputs.cache
+C:\Users\ShaneEichner\source\repos\TypingGame\TypingGame\obj\Debug\TypingGame.exe
+C:\Users\ShaneEichner\source\repos\TypingGame\TypingGame\obj\Debug\TypingGame.xml
+C:\Users\ShaneEichner\source\repos\TypingGame\TypingGame\obj\Debug\TypingGame.pdb
